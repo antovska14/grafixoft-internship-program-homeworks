@@ -1,6 +1,5 @@
 
 # Naming Identifiers Homework
-## Homework
 
 ### Task 1. class_123 in C&#35;
 *	Refactor the following examples to produce code with well-named C# identifiers.

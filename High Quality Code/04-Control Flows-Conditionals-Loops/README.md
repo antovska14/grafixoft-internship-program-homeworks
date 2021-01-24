@@ -1,4 +1,4 @@
-# Control Flow, Conditional Statements and Loops Homework
+# Control Flows, Conditionals, Loops Homework
 
 ## Task 1. Class Chef in C&#35;
 *	Refactor the following class using best practices for organizing straight-line code:
@@ -78,7 +78,3 @@ and
     {
         Console.WriteLine("Value Found");
     }
-
-## Task 4*. Refactor your C# 1 exam solutions
-
-*   Using best practices for Variables, Data, Expressions, Constants, Control Flow, Conditional Statements and Loops refactor all your solutions sent during the first C# practical exam this year

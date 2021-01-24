@@ -1,4 +1,4 @@
-# Variables, Data, Expressions and Constants Homework
+# Variables, Data, Constants Homework
 
 ## Task 1. Class Size in C&#35;
 *	Refactor the following code to use proper variable naming and simplified expressions:

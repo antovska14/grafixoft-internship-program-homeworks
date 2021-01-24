@@ -1,4 +1,4 @@
-# Defensive Programming and Exceptions Homework
+# Defensive Programming Homework
 
 ## Task 1. Assertions
 *	Add `assertions` in the code from the project `Assertions-Homework` to ensure all possible preconditions and postconditions are checked.

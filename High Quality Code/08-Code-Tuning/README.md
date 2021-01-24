@@ -1,4 +1,4 @@
-# Code Tuning and Optimization Homework
+# Code Tuning Homework
 
 ## Task 1. Solar System
 *	You are given a C# application `SolarSystem` which displays an animated 3D model of the Solar system.

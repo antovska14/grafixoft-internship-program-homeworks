@@ -1,5 +1,4 @@
-# Code Documentation and Comments
-## Homework
+# Comments/Documentation Homework
 
 ### Task 1. Code documentation
 *	Open project located in `StringExtensions.csproj` and:

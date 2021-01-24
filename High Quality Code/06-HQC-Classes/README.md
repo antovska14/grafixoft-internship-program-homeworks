@@ -1,4 +1,4 @@
-# High-quality Classes Homework
+# HQC Classes Homework
 
 ## Task 1. Good Abstraction
 *	Take the VS solution `Abstraction` and refactor its code to provide **good abstraction**.
