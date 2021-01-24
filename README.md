@@ -1,1 +1,1 @@
-# grafixoft-internship-program
+# Repository for the Grafixoft Internship Program homeworks. 
