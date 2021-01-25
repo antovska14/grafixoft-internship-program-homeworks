@@ -1,1 +1,1 @@
-# Repository for the High Quality Code homeworks, part of the Grafixoft Internship Program. 
+# Repository for the Grafixoft Internship Program Homeworks. 
